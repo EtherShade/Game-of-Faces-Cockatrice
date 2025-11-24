@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Nov 23 20:07:36 2025</lastLoadedTimestamp>
+    <deckname>GFA mirrored starter deck alphatest</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Simple Mask" setShortName="GFA"/>
+        <card number="3" name="Impatient Mask" setShortName="GFA"/>
+        <card number="3" name="Simple Face" setShortName="GFA"/>
+        <card number="3" name="Impatient Face" setShortName="GFA"/>
+        <card number="3" name="Simple Trick" setShortName="GFA"/>
+        <card number="3" name="Swift Trick" setShortName="GFA"/>
+        <card number="3" name="Wellspring Simulator" setShortName="GFA"/>
+        <card number="3" name="Simple Strike" setShortName="GFA"/>
+        <card number="3" name="Swift Strike" setShortName="GFA"/>
+        <card number="10" name="Simple Wellspring" setShortName="GFA"/>
+        <card number="3" name="Book" setShortName="GFA"/>
+    </zone>
+</cockatrice_deck>

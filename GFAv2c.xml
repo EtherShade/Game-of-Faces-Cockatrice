@@ -25,7 +25,7 @@
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
+      <text>A deck may contain any number of cards named Simple Wellspring.</text>
     </card>
     <card>
       <name>Simple Mask</name>
@@ -197,7 +197,7 @@ Damage: 2</text>
 Damage: 3</text>
     </card>
     <card>
-      <name>Wellspring Simulator</name>
+      <name>Book</name>
       <set rarity="">GFA</set>
       <prop>
         <colors>G</colors>
@@ -213,7 +213,7 @@ Damage: 3</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Cost = 3 Energy
-When Wellspring Simulator enters your field zone, draw two cards and destroy it.</text>
+When Book enters your field zone, draw two cards and destroy it.</text>
     </card>
 
     <!-->Tokens</-->
