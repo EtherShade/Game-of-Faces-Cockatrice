@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>GFA</name>
+      <longname>Game of Faces alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Simple Wellspring</name>
+      <set rarity="">GFA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Wellspring</type>
+        <maintype>Wellspring</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck may contain any number of cards named Simple Wellspring.
+When Simple Wellspring enters, if you control five or more Wellsprings, draw a card.</text>
+    </card>
+    <card>
+      <name>Simple Mask</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Mask</type>
+        <maintype>Mask</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Shield = 3</text>
+    </card>
+    <card>
+      <name>Simple Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 4</text>
+    </card>
+    <card>
+      <name>Simple Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 3</text>
+    </card>
+    <card>
+      <name>Simple Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 4</text>
+    </card>
+    <card>
+      <name>Impatient Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 6
+Reduce Impatient Face’s shield by 1 for each progress counter on it.</text>
+    </card>
+    <card>
+      <name>Impatient Mask</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Mask</type>
+        <maintype>Mask</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Shield = 5
+Reduce Impatient Face’s shield by 1 for each progress counter on it.</text>
+    </card>
+    <card>
+      <name>Wellspring Simulator</name>
+      <set rarity="">GFA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Energy
+Wellspring Simulator can produce energy as if it was a wellspring.</text>
+    </card>
+    <card>
+      <name>Swift Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 1+
+Damage: 2</text>
+    </card>
+    <card>
+      <name>Swift Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 1+
+Damage: 3</text>
+    </card>
+    <card>
+      <name>Book</name>
+      <set rarity="">GFA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Energy
+When Book enters your field zone, draw two cards and destroy it.</text>
+    </card>
+    <card>
+      <name>Modular Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 3
+When you initiate Modular Trick, you may pay 3 energy. If you do, it gets +2 damage.</text>
+    </card>
+    <card>
+      <name>Slow Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 3+
+Damage: 5</text>
+    </card>
+    <card>
+      <name>Slow Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 3+
+Damage: 4</text>
+    </card>
+    <card>
+      <name>Modular Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 2
+When you initiate Modular Trick, you may pay 3 energy. If you do, it gets +2 damage.</text>
+    </card>
+    <card>
+      <name>Mental Mask</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Mask</type>
+        <maintype>Mask</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Shield = 1
+When you turn Mental Mask face up, draw two cards, then discard cards equal to the amount of progress counters on Mental Mask.</text>
+    </card>
+    <card>
+      <name>Mental Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 2
+When you turn Mental Face face up, draw three cards, then discard cards equal to the amount of progress counters on Mental Face.</text>
+    </card>
+    <card>
+      <name>Angry Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face - Emotion</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 2
+When you turn Angry Face face up, you get a Rage counter. (When you initiate a strike or trick, you may pay any number of Rage counters to increase the initiated card’s damage by that much.)</text>
+    </card>
+    <card>
+      <name>Propaganda</name>
+      <set rarity="">GFA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Energy
+Tap this: You get a Rage counter. (When you initiate a strike or trick, you may pay any number of Rage counters to increase the initiated card’s damage by that much.)</text>
+    </card>
+    <card>
+      <name>Sad Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face - Emotion</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 2
+When you turn Sad Face face up, for each Emotion card in your discard pile, you get a Rage counter. (When you initiate a strike or trick, you may pay any number of Rage counters to increase the initiated card’s damage by that much.)</text>
+    </card>
+    <card>
+      <name>Berserk Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 2
+If a Rage counter would increase Berserk Strike’s damage by an amount, it increases Berserk Strike’s damage by twice that amount instead. (When you initiate a strike or trick, you may pay any number of Rage counters to increase the initiated card’s damage by that much.)</text>
+    </card>
+    <card>
+      <name>Happy Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face - Emotion</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 2
+When you turn Happy Face face up, you may pay any number of Rage counters to draw that many cards. (When you initiate a strike or trick, you may pay any number of Rage counters to increase the initiated card’s damage by that much.)</text>
+    </card>
+    <card>
+      <name>Mask of Emotion</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Mask</type>
+        <maintype>Mask</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Shield = 2
+When you turn Mask of Emotion face up, increase Mask of Emotion’s shield by the amount of Emotion cards in your discard pile.</text>
+    </card>
+    <card>
+      <name>Stopwatch</name>
+      <set rarity="">GFA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Energy
+Tap this: Put a progress counter on a face down card of your choice. That card can’t be turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Momentum Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 0
+Momentum Strike gets +1 damage for each card you’ve turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Momentum Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 1
+Momentum Trick gets +1 damage for each card you’ve turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Swift Painful Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 1+
+Damage: 3
+When you turn Swift Painful Strike face up, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Painful Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 4
+When you turn Painful Strike face up, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Swift Painful Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 1+
+Damage: 4
+When you turn Swift Painful Trick face up, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Painful Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 5
+When you turn Painful Trick face up, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Fateful Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 3
+Fateful Trick gets +2 damage if you have 5 or less life.</text>
+    </card>
+    <card>
+      <name>Temporal Mask</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Mask</type>
+        <maintype>Mask</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Shield = 1
+When you turn Temporal Mask face up, add or remove a progress counter from a face down card. That card can’t be turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Temporal Face</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Face</type>
+        <maintype>Face</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Shield = 2
+When you turn Temporal Face face up, add or remove a progress counter from a face down card. That card can’t be turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Temporal Strike</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Strike</type>
+        <maintype>Strike</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 1 Energy; Front Row)
+Trigger: 2+
+Damage: 1
+When you turn Temporal Strike face up, add or remove a progress counter from a face down card. That card can’t be turned face up this turn.</text>
+    </card>
+    <card>
+      <name>Temporal Trick</name>
+      <set rarity="common">GFA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trick</type>
+        <maintype>Trick</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Cost = 2 Energy; Back Row)
+Trigger: 2+
+Damage: 2
+When you turn Temporal Trick face up, add or remove a progress counter from a face down card. That card can’t be turned face up this turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
